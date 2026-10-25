@@ -1,2 +1,4 @@
 User-agent: *
 Allow: /
+
+Sitemap: https://furkhad-portfolio.pages.dev/sitemap.xml

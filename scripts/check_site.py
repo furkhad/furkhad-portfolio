@@ -76,7 +76,7 @@ for asset in parser.assets:
     if not (PUBLIC / asset).is_file():
         fail(f"missing local asset: {asset}")
 
-for expected in ("assets/styles.css", "assets/script.js", "assets/favicon.svg", "assets/og-image.png"):
+for expected in ("assets/styles.css", "assets/script.js", "assets/favicon.svg", "https://furkhad-portfolio.pages.dev/assets/og-image.png"):
     if expected not in parser.assets and expected not in parser.hrefs:
         fail(f"expected asset is not referenced in HTML: {expected}")
 
