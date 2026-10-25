@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs><pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#dce8d7" stroke-opacity=".10"/></pattern></defs>
+  <rect width="1200" height="630" fill="#14251b"/><rect width="1200" height="630" fill="url(#g)"/>
+  <circle cx="1030" cy="160" r="240" fill="#c1f17e" fill-opacity=".07"/><circle cx="1020" cy="170" r="152" fill="none" stroke="#c1f17e" stroke-opacity=".3" stroke-dasharray="4 10"/><circle cx="1020" cy="170" r="102" fill="none" stroke="#c1f17e" stroke-opacity=".45"/>
+  <path d="M865 105 1020 170 1138 84M1020 170 1130 285M1020 170 930 295" fill="none" stroke="#c1f17e" stroke-opacity=".65" stroke-width="2"/><circle cx="1020" cy="170" r="14" fill="#c1f17e"/><circle cx="865" cy="105" r="6" fill="#c1f17e"/><circle cx="1138" cy="84" r="6" fill="#c1f17e"/><circle cx="1130" cy="285" r="6" fill="#c1f17e"/><circle cx="930" cy="295" r="6" fill="#c1f17e"/>
+  <rect x="82" y="72" width="76" height="50" rx="10" fill="#c1f17e"/><text x="120" y="103" text-anchor="middle" fill="#14251b" font-family="Arial,sans-serif" font-size="19" font-weight="700">FA.</text>
+  <text x="82" y="218" fill="#9fc78b" font-family="monospace" font-size="18" letter-spacing="4">CYBERSECURITY / SYSTEMS / AUTOMATION</text>
+  <text x="78" y="325" fill="#f3f5ef" font-family="Arial,sans-serif" font-size="75" font-weight="700" letter-spacing="-3">Furkhad Ahmed</text>
+  <text x="82" y="390" fill="#c1f17e" font-family="Georgia,serif" font-size="42" font-style="italic">Make systems easier to trust.</text>
+  <text x="82" y="500" fill="#b5c6b3" font-family="Arial,sans-serif" font-size="20">Security tools · Practical automation · Evidence-driven engineering</text>
+</svg>
